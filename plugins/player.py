@@ -684,11 +684,11 @@ allcmd = ["play", "player", f"play@{U}", f"player@{U}"] + admincmds
 async def not_chat(_, m: Message):
     buttons = [
         [
-            InlineKeyboardButton('⚡️Make Own Bot', url='https://heroku.com/deploy?template=https://github.com/subinps/MusicPlayer'),
-            InlineKeyboardButton('🧩 Source Code', url='https://github.com/subinps/MusicPlayer'),
+            InlineKeyboardButton('⚡️Make Own Bot', url='https://T.me/pro_Morningstar'),
+            InlineKeyboardButton('🧩 Source Code', url ='https://T.me/pro_morningstar'),
         ],
         [
-            InlineKeyboardButton('How to Make', url='https://youtu.be/iBK-5pP2eHM'),
+            InlineKeyboardButton('How to Make', url='https://t.me/pro_morningstar'),
             InlineKeyboardButton('👨🏼‍🦯 Help', callback_data='help')       
         ]
         ]
